@@ -1,0 +1,36 @@
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+img {
+    transition: transform 1s;
+}
+img:hover {
+    transform: scale(1.1);
+}
+#app,#games{
+
+}
+body {
+text-align: center;
+
+}
+#myCarousel{
+    background-color: aqua;
+}
+#myCarousel img{
+margin-top: 35px; 
+    height: 300px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    color:black;
+}
